@@ -1,0 +1,5 @@
+[{t:"#000000\n\n#000aff\n\n#fc0000\n#fc0000",a:0},"Q\n\nF1\n\n!\n1","W\n\nF2\n\n@\n2","E\n\nF3\n\n#\n3","R\n\nF4\n\n$\n4","T\n\nF5\n\n%\n5",{x:2.25},"Y\n\nF6\n\n^\n6","U\n\nF7\n\n&\n7","I\n\nF8\n\n*\n8","O\n\nF9\n\n(\n9","P\n\nF10\n\n)\n0"],
+[{t:"#000000\n\n#000aff",a:4},"A\n\nF11","S\n\nF12","D\n\nHome","F\n\nPgup",{t:"#000000"},"G",{x:2.25},"H","J",{t:"#000000\n\n#000aff\n#000aff\n#fc0000\n#fc0000",a:0},"K\n\n_\n-\n:\n;","L\n\n+\n=\n\"\n'",{t:"#000000\n\n#000aff\n#000aff",a:4},"Enter\n\n|\n\\"],
+[{t:"#000000"},"Shift","Z",{t:"#000000\n\n#000aff"},"X\n\nEnd","C\n\nPgdn",{t:"#000000"},"V",{x:2.25},"B","N","M",{t:"#000000\n#ffffff\n#000aff\n#000aff\n#fc0000\n#fc0000",a:0},"<\n,\n{\n[\n?\n/",{t:"#000000\n#ffffff\n#000aff\n#000aff",a:4},">\n.\n}\n]"],
+[{y:-0.5,x:5,t:"#000000\n\n\n\n#fc0000\n#fc0000",a:0,h:1.5},"Esc\n\n\n\n~\n`",{x:0.25,c:"#000aff",t:"#000000\n\n\n\n#fc0000",h:1.5},"Fn2\n\n\n\nSpace"],
+[{y:-0.5,c:"#cccccc",t:"#000000",a:4},"Ctrl","Win","Alt",{t:"#000000\n\n\n\n#fc0000",a:0},"Tab\n\n\n\nCaps",{c:"#ff0000",t:"#000000",a:4},"Fn1",{x:2.25,c:"#cccccc"},"Fn4","Fn5","Fn6","Fn7",{t:"#000000\n\n\n\n#fc0000",a:0},"BS\n\n\n\nDel"]
